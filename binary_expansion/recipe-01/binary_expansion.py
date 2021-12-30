@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# 离散数学及其应用 （原书第8版）：4.2.2章节，算法1
 
 def binary_expansion(n):
     """
